@@ -1,0 +1,30 @@
+{
+  "name": "Sketch Move Half Pixel",
+  "description": "Move layers half pixel",
+  "author": "Canis Minor",
+  "homepage": "https://github.com/canisminor1990/sketch-move-half-pixel",
+  "version": 1.0,
+  "identifier": "me.canisminor.SketchMoveHalfPixel",
+  "bundleVersion": 1,
+  "commands": [{
+    "name": "Move up 0.5px",
+    "shortcut": "option ↑",
+    "handler" : "moveUp",
+    "script": "move.cocoascript",
+  },{
+    "name": "Move down 0.5px",
+    "shortcut": "option ↓",
+    "handler" : "moveDown",
+    "script": "move.cocoascript",
+  },{
+    "name": "Move left 0.5px",
+    "shortcut": "option ←",
+    "handler" : "moveLeft",
+    "script": "move.cocoascript",
+  },{
+    "name": "Move right 0.5px",
+    "shortcut": "option →",
+    "handler" : "moveRight",
+    "script": "move.cocoascript",
+  }]
+}
