@@ -1,6 +1,6 @@
 # Sketch Move Half Pixel
 
-![](https://o4j4l4n7h.qnssl.com/2017-05-23-020517.jpg)
+![](https://o4j4l4n7h.qnssl.com/2017-05-23-smhp-1.png)
 
 Move layers half pixel
 
