@@ -1,48 +1,44 @@
-function move (context,positon) {
-  var selection = context.selection;
-  var selectionLoop = selection.objectEnumerator()
-		while (item = selectionLoop.nextObject()) {
-			var layer = item,
-    	    frame = [layer frame];
-    	var y = [frame y],
-          x = [frame x];
-      var yFloor = Math.floor(y),
-          xFloor = Math.floor(x),
-          yCeil = Math.ceil(y),
-          xCeil = Math.ceil(x);
-      switch(positon){
-        case "up":
-          var yUpdated = (yFloor == y)?y - 0.5:yFloor
-          [frame setY:yUpdated];
-          break;
-        case "down":
-          var yUpdated = (yCeil == y)?y + 0.5:yCeil
-          [frame setY:yUpdated];
-          break;
-        case "left":
-          var xUpdated = (xFloor == x)?x - 0.5:xFloor
-          [frame setX:xUpdated];
-          break;
-        case "right":
-          var xUpdated = (xCeil == x)?x + 0.5:xCeil
-          [frame setX:xUpdated];
-          break;
-      }
+function move(context, positon) {
+    var selection = context.selection;
+    var selectionLoop = selection.objectEnumerator()
+    while (item = selectionLoop.nextObject()) {
+        var layer = item,
+            frame = [layer frame];
+        var y = [frame y],
+            x = [frame x];
+        var yFloor = Math.floor(y),
+            xFloor = Math.floor(x),
+            yCeil = Math.ceil(y),
+            xCeil = Math.ceil(x);
+        switch (positon) {
+            case "up":
+                var yUpdated = (yFloor == y) ? y - 0.5 : yFloor[frame setY: yUpdated];
+                break;
+            case "down":
+                var yUpdated = (yCeil == y) ? y + 0.5 : yCeil[frame setY: yUpdated];
+                break;
+            case "left":
+                var xUpdated = (xFloor == x) ? x - 0.5 : xFloor[frame setX: xUpdated];
+                break;
+            case "right":
+                var xUpdated = (xCeil == x) ? x + 0.5 : xCeil[frame setX: xUpdated];
+                break;
+        }
     }
 }
 
-function moveDown (context){
-  move(context,"down")
+function moveDown(context) {
+    move(context, "down")
 }
 
-function moveUp (context){
-  move(context,"up")
+function moveUp(context) {
+    move(context, "up")
 }
 
-function moveLeft (context){
-  move(context,"left")
+function moveLeft(context) {
+    move(context, "left")
 }
 
-function moveRight (context){
-  move(context,"right")
+function moveRight(context) {
+    move(context, "right")
 }
