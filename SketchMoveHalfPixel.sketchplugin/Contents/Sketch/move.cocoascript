@@ -12,16 +12,20 @@ function move(context, positon) {
             xCeil = Math.ceil(x);
         switch (positon) {
             case "up":
-                var yUpdated = (yFloor == y) ? y - 0.5 : yFloor[frame setY: yUpdated];
+                var yUpdated = (yFloor == y) ? y - 0.5 : yFloor;
+                [frame setY: yUpdated];
                 break;
             case "down":
-                var yUpdated = (yCeil == y) ? y + 0.5 : yCeil[frame setY: yUpdated];
+                var yUpdated = (yCeil == y) ? y + 0.5 : yCeil;
+                [frame setY: yUpdated];
                 break;
             case "left":
-                var xUpdated = (xFloor == x) ? x - 0.5 : xFloor[frame setX: xUpdated];
+                var xUpdated = (xFloor == x) ? x - 0.5 : xFloor;
+                [frame setX: xUpdated];
                 break;
             case "right":
-                var xUpdated = (xCeil == x) ? x + 0.5 : xCeil[frame setX: xUpdated];
+                var xUpdated = (xCeil == x) ? x + 0.5 : xCeil;
+                [frame setX: xUpdated];
                 break;
         }
     }
