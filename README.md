@@ -1,5 +1,7 @@
 # Sketch Move Half Pixel
 
+![](https://o4j4l4n7h.qnssl.com/2017-05-23-smhp.png)
+
 Move layers half pixel
 
 ## Installing Plugins
