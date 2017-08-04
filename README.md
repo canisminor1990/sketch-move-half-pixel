@@ -8,8 +8,23 @@ Move layers half pixel
 
 ## Installing Plugins
 
+### Direct download
+
 1. [Download the ZIP file](https://github.com/canisminor1990/sketch-move-half-pixel/archive/master.zip) and unzip
 2. Open the `MoveHalfPixel.sketchplugin`
+
+### Install with Sketchpacks
+
+<a href="https://sketchpacks.com/canisminor1990/sketch-move-half-pixel/install"><img src="https://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png" alt="Install sketch-move-half-pixel with Sketchpacks" width="160"></a>
+
+### Install with Runner
+
+1. Press `⌘` + `'` open Runner window;
+2. Switch to `install` tab;
+3. Type `MoveHalfPixel`;
+4. Select `Move Half Pixel` item and press `Return`.
+
+<a href="http://bit.ly/SketchRunnerWebsite"><img src="http://bit.ly/RunnerBadgeBlue" alt="Works with Sketch Runner" width="160"></a>
 
 ## Usage
 
