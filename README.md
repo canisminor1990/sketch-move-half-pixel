@@ -1,6 +1,6 @@
 # Move Half Pixel
 
-![](https://badges.sketchpacks.com/plugins/cm.sketch.movehalfpixel/version.svg)
+![](https://badges.sketchpacks.com/plugins/cm.sketch.movehalfpixel/version.svg) [中文说明](README_zh.md)
 
 <img src="https://o4j4l4n7h.qnssl.com/2017-08-04-cover_move-1.png" width="500">
 
