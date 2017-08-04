@@ -26,6 +26,7 @@
   "authorEmail": "i@canisminor.cc",
   "identifier": "cm.sketch.movehalfpixel",
   "version": 1.1,
+  "icon": "https://o4j4l4n7h.qnssl.com/2017-08-04-MoveHalfPixel-Icon.png",
   "homepage": "https://github.com/canisminor1990/sketch-move-half-pixel",
   "appcast": "https://api.sketchpacks.com/v1/plugins/cm.sketch.movehalfpixel/appcast",
 }
