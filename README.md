@@ -1,5 +1,7 @@
 # Sketch Move Half Pixel
 
+[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/me.canisminor.SketchMoveHalfPixel/version.svg)](https://api.sketchpacks.com/v1/plugins/me.canisminor.SketchMoveHalfPixel/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/me.canisminor.SketchMoveHalfPixel/compatibility.svg)](https://sketchpacks.com/canisminor1990/sketch-move-half-pixel)
+
 ![](https://o4j4l4n7h.qnssl.com/2017-05-23-smhp-1.png)
 
 Move layers half pixel
