@@ -13,7 +13,7 @@ Move layers half pixel
 
 ## Usage
 
-![](https://o4j4l4n7h.qnssl.com/2017-05-23-2017-05-23-10_29_11.gif)
+<img src="https://o4j4l4n7h.qnssl.com/2017-05-23-2017-05-23-10_29_11.gif" width="500">
 
 * `option ↑` Move up 0.5px
 * `option ↓` Move down 0.5px
