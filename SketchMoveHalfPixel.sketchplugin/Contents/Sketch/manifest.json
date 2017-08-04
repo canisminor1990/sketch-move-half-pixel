@@ -5,6 +5,7 @@
   "homepage": "https://github.com/canisminor1990/sketch-move-half-pixel",
   "version": 1.0,
   "identifier": "me.canisminor.SketchMoveHalfPixel",
+  "appcast": "https://api.sketchpacks.com/v1/plugins/me.canisminor.SketchMoveHalfPixel/appcast",
   "bundleVersion": 1,
   "commands": [{
     "name": "Move up 0.5px",
