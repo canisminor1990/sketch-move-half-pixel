@@ -24,6 +24,8 @@
 3. 输入 `MoveHalfPixel`;
 4. 选择 `Move Half Pixel` 并回车.
 
+<a href="http://bit.ly/SketchRunnerWebsite"><img src="http://bit.ly/RunnerBadgeBlue" alt="Works with Sketch Runner" width="160"></a>
+
 ## 示例
 
 <img src="https://o4j4l4n7h.qnssl.com/2017-05-23-2017-05-23-10_29_11.gif" width="500">
