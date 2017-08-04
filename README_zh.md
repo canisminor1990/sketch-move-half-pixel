@@ -8,8 +8,21 @@
 
 ## 安装插件
 
+### 直接下载
+
 1. [下载ZIP包](https://github.com/canisminor1990/sketch-move-half-pixel/archive/master.zip) 并解压
 2. 打开 `MoveHalfPixel.sketchplugin` 即可安装
+
+### 使用 Sketchpacks 安装
+
+<a href="https://sketchpacks.com/canisminor1990/sketch-move-half-pixel/install"><img src="https://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png" alt="Install sketch-move-half-pixel with Sketchpacks" width="160"></a>
+
+### 使用 Runner 安装
+
+1. `⌘` + `'` 打开 Runner;
+2. 切换至 `install` 标签;
+3. 输入 `MoveHalfPixel`;
+4. 选择 `Move Half Pixel` 并回车.
 
 ## 示例
 
