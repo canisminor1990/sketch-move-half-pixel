@@ -2,7 +2,7 @@
 
 ![](https://badges.sketchpacks.com/plugins/cm.sketch.movehalfpixel/version.svg)
 
-![](https://o4j4l4n7h.qnssl.com/2017-05-23-smhp-1.png)
+<img src="https://o4j4l4n7h.qnssl.com/2017-08-04-cover_move.png" width="500">
 
 Move layers half pixel
 
